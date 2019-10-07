@@ -1,0 +1,1 @@
+Basic To-do List application built using React and Bootstrap, for practice and learning purposes.
